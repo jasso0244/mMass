@@ -1,16 +1,7 @@
 # mMass Backup Repository
+this is a fork of the original mmass program.
 
-This is my original source code backup repository for
-mMass software. Although mMass is no longer actively
-developed and supported I decided to put the code here for others to be able
-to share it, fork it and all the git craziness. Feel free to make your own
-changes but please do not expect further contributions from my side.
-
-At the time of writing the mMass code I was really not a programmer.
-Programming was just a hobby and I was doing it rather for fun. Please respect
-this while reading and modifying the original code :)
-
-Thank you for your interest, and ... have fun!
+The goal of this fork is to move from python 2 to 3.
 
 
 ## Requirements
